@@ -1,17 +1,17 @@
-# Journal de bord du binôme : TP1 à TP5
+# Journal de bord du binôme : TP1 à TP6
 
 **Module** : Développement et déploiement d'applications intelligentes · **Enseignant** : A. Larhlimi
 
 | | Membre A | Membre B |
 | --- | --- | --- |
-| Nom | Anas Mouqine | Anas Mouqine |
-| Compte GitHub | @anasmouqine | @anasmouqine |
+| Nom | Assia Nouaoury | Anas Mouqine |
+| Compte GitHub | @nouaoury | @anasmouqine |
 
-**Dépôt** : https://github.com/anasmouquinee/sentiment-app.git
+**Dépôt** : https://github.com/nouaoury/sentiment-dev.git
 
 ## Comment remplir ce journal
 
-Ce fichier se place dans votre dépôt, sous `docs/journal-tp1-tp5.md`, et vos captures d'écran dans `docs/captures/`. Créez ce dossier une fois :
+Ce fichier se place dans votre dépôt, sous `docs/journal-tp1-tp6.md`, et vos captures d'écran dans `docs/captures/`. Créez ce dossier une fois :
 
 ```powershell
 New-Item -ItemType Directory -Force docs\captures
